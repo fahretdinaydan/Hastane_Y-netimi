@@ -1,5 +1,11 @@
-![Ekran görüntüsü 2025-05-18 144010](https://github.com/user-attachments/assets/3a3a04ce-0fc4-402a-adfc-64273cbca7d9)
-![Ekran görüntüsü 2025-05-18 144143](https://github.com/user-attachments/assets/5ef6a497-b919-4a04-b72d-a1376a0811d7)
-![Ekran görüntüsü 2025-05-18 144154](https://github.com/user-attachments/assets/b17d6408-fc0a-437d-8668-fac0da5c9444)
-![Ekran görüntüsü 2025-05-18 144252](https://github.com/user-attachments/assets/893c3414-2f45-4a39-aaa5-d5d38c7e7d70)
-![Ekran görüntüsü 2025-05-18 144434](https://github.com/user-attachments/assets/548ba57e-5e85-4ec2-8457-794a8ad1fe82)
+ Hastane Randevu Sistemi
+Bu proje, C# - Windows Forms kullanılarak geliştirilmiş basit bir hastane randevu takip sistemidir. Kullanıcılar giriş yaptıktan sonra doktor ve bölüm seçerek randevu oluşturabilir, mevcut randevuları listeleyebilir.
+🧑‍⚕️ Kullanıcı girişi (kullanıcı adı / şifre ile)
+
+📅 Randevu oluşturma (doktor, bölüm, tarih ve saat seçerek)
+
+📋 Randevu listeleme (DataGridView ile)
+
+🔒 Hatalı girişler için kullanıcı uyarı sistemi
+
+🪄 Formlar arası geçiş ile kullanıcı dostu arayüz
